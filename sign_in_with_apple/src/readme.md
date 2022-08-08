@@ -1,0 +1,1 @@
+application.properties로 이동해서 값 입력해 주시면 됩니다.
